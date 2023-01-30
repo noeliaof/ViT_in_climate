@@ -17,3 +17,5 @@ figures/
 
 *.out
 *.csv
+
+__pycache__/
