@@ -17,5 +17,5 @@ figures/
 
 *.out
 *.csv
-
+.DS_Store
 __pycache__/
